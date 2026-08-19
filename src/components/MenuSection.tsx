@@ -1,4 +1,4 @@
-import { Beef, CakeSlice, GlassWater, Coffee, Users } from "lucide-react";
+import { Beef, CakeSlice, GlassWater, Users } from "lucide-react";
 import coxinhaImg from "@/assets/menu/coxinha.jpg";
 import pastelImg from "@/assets/menu/pastel.jpg";
 import paoQueijoImg from "@/assets/menu/pao-queijo.jpg";
